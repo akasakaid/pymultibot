@@ -1,0 +1,8 @@
+build
+dist
+env
+__pycache__
+test.py
+logs.txt
+*.html
+*.egg-info
